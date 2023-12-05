@@ -1,6 +1,6 @@
 Dependencies for Project 'Template', Target 'Template': (DO NOT MODIFY !)
 CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
-F (.\main.c)(0x64B2240D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\CORE -I ..\FWLIB\inc -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\MODULE -I ..\UCOSII\CONFIG -I ..\UCOSII\CORE -I ..\UCOSII\PORT-IC:\Users\Long\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="536" -DSTM32F10X_LD -DSTM32F10X_LD -DUSE_STDPERIPH_DRIVER-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+F (.\main.c)(0x64C32BC6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\CORE -I ..\FWLIB\inc -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\MODULE -I ..\UCOSII\CONFIG -I ..\UCOSII\CORE -I ..\UCOSII\PORT-IC:\Users\Long\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="536" -DSTM32F10X_LD -DSTM32F10X_LD -DUSE_STDPERIPH_DRIVER-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
 I (..\MODULE\led.h)(0x64ACC943)
 I (..\SYSTEM\sys\sys.h)(0x64ACC6B4)
 I (..\USER\stm32f10x.h)(0x6268D00B)
